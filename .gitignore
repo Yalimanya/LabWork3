@@ -83,3 +83,6 @@ DerivedDataCache/*
 /Homework3.sln
 /.vsconfig
 /Content/Meshes
+/Content/Models
+/Content/Materials
+/Content/Texturues
